@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Offline short range communication app</string>
+    <string name="splashname">
+        K.C.E Final year project \n \n
+        \" Short range communication app during no internet zones using bluetooth technology \"   \n\n
+        \"\"project members\"\"    \n\n
+        \" Subodh Jadhav \"   \n\n
+        \" Suyash bonde \"    \n\n
+        \"Hemvarsha patil\"   \n\n
+    </string>
+    <string name="enable_bluettoh">enable bluetooth</string>
+    <string name="make_discovery">Make_Discoverable</string>
+    <string name="showpaireddevices">show_paired _devices</string>
+    <string name="list_paired_devices">List Paired Devices</string>
+    <string name="none_paired">none_paired</string>
+    <string name="Deivce_List">Device List</string>
+    <string name="scan">Scan</string>
+    <string name="select_image">Select image</string>
+    <string name="Sendimage">Send Image</string>
+</resources>
